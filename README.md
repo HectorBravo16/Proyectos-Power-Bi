@@ -78,4 +78,4 @@ El reporte completo está subido a powerbi.com. El enlace para verlo es este: ht
 
 Aquí una vista previa del mismo.
 
-![Descripción de la imagen](./img/nombre_de_la_imagen.png)
+![Vista previa]([./img/nombre_de_la_imagen.png](https://github.com/HectorBravo16/Proyectos-Power-Bi/blob/85b72f5656a483805008c932de05eaa0e6b597b4/Vista%20previa%20recursos%20humanos.jpg )
