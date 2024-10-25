@@ -10,11 +10,48 @@ El objetivo era visualizar indicadores de Colaboradores, Sueldos y Desempeño en
 4. Deducir relación sueldo-edad por medio de un gráfico de dispersión.
 5. Máximo y mínimo de desempeño agrupado por jefes.
 
-## Instalación
-Describe los pasos para instalar el proyecto. Puedes incluir comandos y pasos detallados.
+## Tablas iniciales
+Se parten de 3 tablas que se muestran a continuación. Cada una de ellas tiene 195 filas.
 
-```bash
-# Ejemplo de comandos de instalación
-git clone https://github.com/usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
-npm install
+### Tabla Empleados
+| ID Empleado   | Nombre Empleado      | Estado                          | Nacimiento   | Género  | Departamento  | Posición         | Nombre Jefe  |
+| ------------- | -------------------- | -------------------------------- | ------------ | ------- | ------------- | ---------------- | ------------ |
+| 1102024149    | Spirea, Kelley        | California, Estados Unidos       | 28/09/1980   | Female  | Admin Offices | Administrative II| Elijah Gray  |
+| 1001109612    | Darson, Jene'ya       | California, Estados Unidos       | 10/05/1983   | Female  | Admin Offices | Administrative II| Elijah Gray  |
+| 1000974650    | Stanley, David        | Texas, Estados Unidos            | 16/12/1975   | Male    | Admin Offices | Manager          | Debra Houlihan|
+| 1206043417    | Quinn, Sean           | Massachusetts, Estados Unidos    | 10/06/1969   | Male    | Admin Offices | Manager          | Janet King   |
+| 1307060188    | Boutwell, Bonalyn     | California, Estados Unidos       | 02/04/1972   | Female  | Admin Offices | Manager          | Elijah Gray  |
+| 1011022932    | Hendrickson, Trina    | California, Estados Unidos       | 26/08/1977   | Female  | Admin Offices | Administrative II| Elijah Gray  |
+| 1101023619    | Wallace, Theresa      | California, Estados Unidos       | 06/02/1985   | Female  | Admin Offices | Administrative II| Elijah Gray  |
+| 1107027575    | LeBel, Jonathan R.    | California, Estados Unidos       | 17/10/1986   | Male    | Admin Offices | Administrative II| Elijah Gray  |
+| 1102024115    | LeBlanc, Brandon      | Massachusetts, Estados Unidos    | 05/10/1969   | Male    | Admin Offices | Manager          | Janet King   |
+| 1105026041    | Gaul, Barbara         | California, Estados Unidos       | 11/02/1968   | Female  | Admin Offices | Administrative II| Elijah Gray  |
+
+### Tabla Evaluación
+| ID Empleado   | Evaluación |
+| ------------- | -----------|
+| 1307060199    | 5,91       |
+| 1011022883    | 9,46       |
+| 1501072311    | 5,70       |
+| 1304055947    | 7,21       |
+| 1107027358    | 5,99       |
+| 1212051409    | 6,25       |
+| 1212052023    | 9,35       |
+| 1307060083    | 5,06       |
+| 1303054329    | 7,24       |
+| 1403066194    | 7,80       |
+
+### Tabla Sueldo
+| ID Empleado   | Sueldo |
+| ------------- | ------ |
+| 1205033102    | 26536  |
+| 1211051232    | 27684  |
+| 1204032927    | 28153  |
+| 1308060366    | 28865  |
+| 1408069882    | 29135  |
+| 1202031618    | 30150  |
+| 1001735072    | 30600  |
+| 1011022887    | 31152  |
+| 1304055987    | 32015  |
+| 1107027392    | 32400  |
+
