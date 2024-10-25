@@ -58,8 +58,23 @@ Se parten de 3 tablas que se muestran a continuación. Cada una de ellas tiene 1
 ## Transformación de datos
 La ETL de este proyecto es muy básica, pues no es el objetivo principal, pero en muchos casos siempre queda alguna transformación que hacer mediante Power Query.
 
-### Tablas de Sueldo y Evaluación
+## Tablas de Sueldo y Evaluación
 Las transformaciónes aquí eran muy básicas. Simplemente había que quitar el encabezado y cambiar el formato de la columna "ID empleado" a números enteros.
 
-### Tabla de Empleados
+## Tabla de Empleados
 A parte del encabezado, aquí se han hecho más transformaciónes. En primer lugar se han traducido los géneros del inglés al español. A continuación, la columna "nombre empleado" pasó a tener formato "nombre apellido". Por último, la columna de "estado" se editó eliminando "Estados Unidos", pues aparecía en todas las filas y no aportaba información relevante.
+
+## Nuevas columnas, métricas, Bookmarks y estética
+Una vez los datos estaban listos, para cumplir con los objetivos era necesario crear algunas métricas sencillas (promedios, máximos y mínimos) y columnas de grupos (grupos de edad, de salario, evaluación) mediante DAX. Se han creado tambien botones para navegar entre páginas y se han importado tanto temas nuevos como un fondo propio de la empresa fictícea.
+
+## Proyecto terminado
+Lo mejor para entender todas las visualizaciones es navegar por ellas, filtrar por las diferentes opciones que hay y sacar conclusiones. Algunas preguntas que nos hemos propuesto son:
+1. ¿En qué grupo de edad trabaja más gente? ¿Es este mismo grupo al que más salario se le dedica?
+2. ¿Qué departamento tiene un mejor salario promedio?
+3. ¿Hay relación entre la evaluación de un empleado y su salario? ¿Y entre la edad y el salario?
+4. ¿Hay brecha salarial en esta empresa?
+
+El reporte completo está subido a powerbi.com. El enlace para verlo es este: https://app.powerbi.com/view?r=eyJrIjoiYjJlNTQwZTMtYWY0NC00NTJhLTlkNjMtZjhmODhmM2I1YmZhIiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9 
+
+Aquí una vista previa del mismo.
+
