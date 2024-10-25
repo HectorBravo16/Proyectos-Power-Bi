@@ -58,10 +58,10 @@ Se parten de 3 tablas que se muestran a continuación. Cada una de ellas tiene 1
 ## Transformación de datos
 La ETL de este proyecto es muy básica, pues no es el objetivo principal, pero en muchos casos siempre queda alguna transformación que hacer mediante Power Query.
 
-## Tablas de Sueldo y Evaluación
+### Tablas de Sueldo y Evaluación
 Las transformaciónes aquí eran muy básicas. Simplemente había que quitar el encabezado y cambiar el formato de la columna "ID empleado" a números enteros.
 
-## Tabla de Empleados
+### Tabla de Empleados
 A parte del encabezado, aquí se han hecho más transformaciónes. En primer lugar se han traducido los géneros del inglés al español. A continuación, la columna "nombre empleado" pasó a tener formato "nombre apellido". Por último, la columna de "estado" se editó eliminando "Estados Unidos", pues aparecía en todas las filas y no aportaba información relevante.
 
 ## Nuevas columnas, métricas, Bookmarks y estética
