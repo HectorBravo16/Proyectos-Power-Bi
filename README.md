@@ -75,7 +75,3 @@ Lo mejor para entender todas las visualizaciones es navegar por ellas, filtrar p
 4. ¿Hay brecha salarial en esta empresa?
 
 El reporte completo está subido a powerbi.com. El enlace para verlo es este: https://app.powerbi.com/view?r=eyJrIjoiYjJlNTQwZTMtYWY0NC00NTJhLTlkNjMtZjhmODhmM2I1YmZhIiwidCI6Ijg3YmNjZDBkLTdiMjUtNGUzZC04OWZiLWMyYWI5M2E2OGVjOCIsImMiOjh9 
-
-Aquí una vista previa del mismo.
-
-![Vista previa]([./img/nombre_de_la_imagen.png](https://github.com/HectorBravo16/Proyectos-Power-Bi/blob/85b72f5656a483805008c932de05eaa0e6b597b4/Vista%20previa%20recursos%20humanos.jpg )
