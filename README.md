@@ -78,3 +78,4 @@ El reporte completo está subido a powerbi.com. El enlace para verlo es este: ht
 
 Aquí una vista previa del mismo.
 
+![Descripción de la imagen](./img/nombre_de_la_imagen.png)
