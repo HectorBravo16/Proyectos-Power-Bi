@@ -1,12 +1,14 @@
 # Proyectos-Power-Bi
-# Título del Proyecto
-Breve descripción de tu proyecto. Explica en una o dos líneas lo que hace y por qué es útil.
+En este archivo readme describiré los distintos proyectos realizados en Power BI a modo de portfolio.
+# Reporte de recursos humanos
+El objetivo era visualizar indicadores de Colaboradores, Sueldos y Desempeño en un mismo reporte de recursos humanos para una compañía inventada (SKU-DON). La idea es poder compartir este reporte por enlace web.
 
-## Índice
-1. [Instalación](#instalación)
-2. [Uso](#uso)
-3. [Contribuciones](#contribuciones)
-4. [Licencia](#licencia)
+## Objetivos particulares
+1. Análisis de todos los parámetros de cada empleado mediante una tabla.
+2. Conteos varios (empleados por cada estado, por cada departamento, etc).
+3. Promedios de edad, sueldo y desempeño calculados mediante métricas.
+4. Deducir relación sueldo-edad por medio de un gráfico de dispersión.
+5. Máximo y mínimo de desempeño agrupado por jefes.
 
 ## Instalación
 Describe los pasos para instalar el proyecto. Puedes incluir comandos y pasos detallados.
