@@ -1,5 +1,3 @@
-# PROYECTOS POWER BI
-En este archivo readme describiré los distintos proyectos realizados en Power BI a modo de portfolio.
 # Reporte de recursos humanos
 El objetivo era visualizar indicadores de Colaboradores, Sueldos y Desempeño en un mismo reporte de recursos humanos para una compañía inventada (SKU-DON). La idea es poder compartir este reporte por enlace web.
 
